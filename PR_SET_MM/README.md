@@ -1,4 +1,4 @@
-Changes /proc/<pid>/exe link to a new executable of your choice
+Changes /proc/\<pid\>/exe link to a new executable of your choice
 
 Compile:
 
