@@ -1,4 +1,6 @@
-Changes /proc/\<pid\>/exe link to a new executable of your choice
+## PR_SET_MM
+
+Changes /proc/pid/exe link to a new executable of your choice
 
 Compile:
 
